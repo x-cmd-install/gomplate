@@ -7,7 +7,7 @@ about:
   head: 59210bb
   archived: false
   latestVersion: v5.2.0
-  collectedAt: 2026-09-04T19:55:33Z
+  collectedAt: 2026-09-04T20:44:07Z
 timeline:
   created: 2016-01-23
   lastCommit: 2026-08-26
@@ -83,6 +83,69 @@ total:
   openIssue: 11
   commit: 2683
 ---
+path: /home/runner/.x-repo/github.com/hairyhenderson/gomplate
+collectedAt: 2026-09-04T20:44:10Z
+loc:
+  Go:
+    code: 23375
+    comments: 1740
+    blanks: 4617
+    files: 217
+  Yaml:
+    code: 5410
+    comments: 7
+    blanks: 147
+    files: 22
+  Css:
+    code: 530
+    comments: 10
+    blanks: 42
+    files: 8
+  Json:
+    code: 245
+    comments: 0
+    blanks: 0
+    files: 3
+  Makefile:
+    code: 179
+    comments: 26
+    blanks: 51
+    files: 1
+  Html:
+    code: 77
+    comments: 0
+    blanks: 3
+    files: 6
+  Svg:
+    code: 59
+    comments: 0
+    blanks: 0
+    files: 2
+  Toml:
+    code: 51
+    comments: 1
+    blanks: 6
+    files: 2
+  Dockerfile:
+    code: 44
+    comments: 1
+    blanks: 18
+    files: 1
+  JavaScript:
+    code: 42
+    comments: 10
+    blanks: 7
+    files: 2
+  Markdown:
+    code: 0
+    comments: 8759
+    blanks: 3513
+    files: 33
+total:
+  code: 30199
+  comments: 10563
+  blanks: 8415
+  files: 297
 ---
 date: "2026-08-24"
 repo:
