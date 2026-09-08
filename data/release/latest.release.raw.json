@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2031,
       "digest": "sha256:6c4b081d255ce1725ce59a57966e3bb4eee1216ffb53291c69a8f375a0956f65",
-      "download_count": 108,
+      "download_count": 109,
       "created_at": "2026-07-12T18:05:25Z",
       "updated_at": "2026-07-12T18:05:25Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/checksums-v5.2.0_sha512.txt"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 109559970,
       "digest": "sha256:a235564c12f12e755c06e3ab2af414ab1e3f5b1f142eb82ea2d8086145670a81",
-      "download_count": 63424,
+      "download_count": 63490,
       "created_at": "2026-07-12T18:05:25Z",
       "updated_at": "2026-07-12T18:05:30Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-amd64"
