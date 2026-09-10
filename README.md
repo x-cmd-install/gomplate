@@ -12,36 +12,7 @@ A flexible commandline tool for template rendering. Supports lots of local and r
 x install gomplate
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/hairyhenderson/gomplate>
-- **Homepage**: <https://gomplate.ca>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v5.2.0` (2026-07-12)
-- **Last commit**: 2026-09-08
-- **Assets in release**: 18
-- **Published**: 2026-07-12T18:05:41Z
-
-## Popularity
-
-- **Stars**: 3,203 · **Forks**: 218 · **Open issues**: 449 · **Contributors**: 64
-
-## Totals (cumulative)
-
-- **Releases**: 76 · **Merged PRs**: 1635 · **Open PRs**: 11 · **Closed issues**: 440 · **Open issues**: 9 · **Commits**: 2695
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 28 | 7 | 0 | 1 | 35 |
-| 90d | 2026-06-12 | 1 | 65 | 9 | 3 | 1 | 74 |
-| 360d | 2025-09-15 | 3 | 204 | 9 | 22 | 2 | 207 |
-
-## Code size
+## Code insight
 
 Total: **30,158** lines of code across **251** files in the top 5 languages.
 
@@ -63,13 +34,77 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/hairyhenderson/gomplate>
+- **Homepage**: <https://gomplate.ca>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v5.2.0` (2026-07-12)
+- **Last commit**: 2026-09-08
+- **Assets in release**: 18
+
+## Popularity
+
+- **Stars**: 3,203 · **Forks**: 218 · **Open issues**: 449 · **Contributors**: 64
+
+## Totals (cumulative)
+
+- **Releases**: 76 · **Merged PRs**: 1635 · **Open PRs**: 11 · **Closed issues**: 440 · **Open issues**: 9 · **Commits**: 2695
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 28 | 7 | 0 | 1 | 35 |
+| last60d | 2026-07-12 | 1 | 48 | 8 | 0 | 1 | 46 |
+| 90d | 2026-06-12 | 1 | 65 | 9 | 3 | 1 | 74 |
+| last180d | 2026-03-14 | 2 | 145 | 9 | 9 | 2 | 148 |
+| 360d | 2025-09-15 | 3 | 204 | 9 | 22 | 2 | 207 |
+| last720d | 2024-09-20 | 8 | 318 | 10 | 51 | 3 | 328 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums-v5.2.0_sha256.txt](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/checksums-v5.2.0_sha256.txt) | 1.2 KiB | `other` |
+| [checksums-v5.2.0_sha512.txt](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/checksums-v5.2.0_sha512.txt) | 2.0 KiB | `other` |
+| [gomplate_darwin-amd64](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_darwin-amd64) | 107.1 MiB | `native/darwin/x64` |
+| [gomplate_darwin-arm64](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_darwin-arm64) | 96.5 MiB | `native/darwin/arm64` |
+| [gomplate_freebsd-amd64](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_freebsd-amd64) | 104.4 MiB | `other` |
+| [gomplate_linux-386](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-386) | 95.4 MiB | `other` |
+| [gomplate_linux-amd64](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-amd64) | 104.5 MiB | `native/linux/x64` |
+| [gomplate_linux-arm64](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-arm64) | 93.2 MiB | `native/linux/arm64` |
+| [gomplate_linux-armv6](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-armv6) | 94.2 MiB | `native/linux/arm` |
+| [gomplate_linux-armv7](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-armv7) | 94.2 MiB | `native/linux/arm` |
+| [gomplate_linux-ppc64le](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-ppc64le) | 101.6 MiB | `other` |
+| [gomplate_linux-s390x](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-s390x) | 103.0 MiB | `other` |
+| [gomplate_solaris-amd64](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_solaris-amd64) | 104.4 MiB | `other` |
+| [gomplate_windows-386.exe](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_windows-386.exe) | 98.3 MiB | `native/win/x64` |
+| [gomplate_windows-amd64.exe](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_windows-amd64.exe) | 106.6 MiB | `native/win/x64` |
+| [gomplate_windows-amd64.zip](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_windows-amd64.zip) | 27.8 MiB | `native/win/x64` |
+| [v5.2.0.sha256](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/v5.2.0.sha256) | 65 B | `other` |
+| [v5.2.0.sha512](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/v5.2.0.sha512) | 129 B | `other` |
+
+## Distribution status
+
+Reported by **43** distros on [repology.org](https://repology.org/project/gomplate). **8** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `5.2.0` | ✅ latest |
+| Alpine edge | `5.2.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gomplate` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/gomplate.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gomplate.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:07:01Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:30:18Z._
