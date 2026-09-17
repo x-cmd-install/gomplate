@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 19 | 11 | 0 | 1 | 20 |
-| last60d | 2026-07-18 | 0 | 40 | 12 | 0 | 1 | 43 |
-| 90d | 2026-06-18 | 1 | 62 | 13 | 3 | 1 | 70 |
-| last180d | 2026-03-20 | 2 | 140 | 13 | 8 | 2 | 133 |
-| 360d | 2025-09-21 | 3 | 203 | 13 | 21 | 2 | 207 |
-| last720d | 2024-09-26 | 8 | 318 | 14 | 51 | 3 | 328 |
+| 30d | 2026-08-18 | 0 | 17 | 11 | 0 | 1 | 20 |
+| last60d | 2026-07-19 | 0 | 40 | 12 | 0 | 1 | 43 |
+| 90d | 2026-06-19 | 1 | 62 | 13 | 3 | 1 | 70 |
+| last180d | 2026-03-21 | 2 | 139 | 13 | 8 | 2 | 133 |
+| 360d | 2025-09-22 | 3 | 203 | 13 | 20 | 2 | 207 |
+| last720d | 2024-09-27 | 8 | 318 | 14 | 51 | 3 | 328 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:13:20Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:25:36Z._
