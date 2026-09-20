@@ -4,7 +4,7 @@
 
 A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 
-![gomplate](https://repo.x-cmd.io/gomplate.svg)
+[![x-cmd/install — gomplate Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gomplate.svg)](https://x-cmd.com/install/gomplate)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,203 · **Forks**: 219 · **Open issues**: 449 · **Contributors**: 64
+- **Stars**: 3,205 · **Forks**: 219 · **Open issues**: 449 · **Contributors**: 64
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 15 | 13 | 0 | 1 | 20 |
-| last60d | 2026-07-20 | 0 | 39 | 14 | 0 | 1 | 43 |
-| 90d | 2026-06-20 | 1 | 62 | 15 | 3 | 1 | 70 |
-| last180d | 2026-03-22 | 2 | 139 | 15 | 8 | 2 | 133 |
-| 360d | 2025-09-23 | 3 | 203 | 15 | 19 | 2 | 207 |
-| last720d | 2024-09-28 | 8 | 317 | 16 | 51 | 3 | 328 |
+| 30d | 2026-08-21 | 0 | 13 | 13 | 0 | 0 | 12 |
+| last60d | 2026-07-22 | 0 | 37 | 13 | 0 | 1 | 36 |
+| 90d | 2026-06-22 | 1 | 62 | 15 | 3 | 1 | 70 |
+| last180d | 2026-03-24 | 2 | 131 | 15 | 8 | 2 | 131 |
+| 360d | 2025-09-25 | 3 | 203 | 15 | 19 | 2 | 207 |
+| last720d | 2024-09-30 | 8 | 315 | 16 | 51 | 3 | 328 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:10:23Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:03:02Z._

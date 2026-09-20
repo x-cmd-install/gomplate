@@ -4,7 +4,7 @@
 
 A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 
-![gomplate](https://repo.x-cmd.io/gomplate.svg?lang=zh)
+[![x-cmd/install — gomplate Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gomplate.svg?lang=zh)](https://x-cmd.com/install/gomplate)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install gomplate
 
 ## 流行度
 
-- **Star**: 3,203 · **Fork**: 219 · **开放 issue**: 449 · **贡献者**: 64
+- **Star**: 3,205 · **Fork**: 219 · **开放 issue**: 449 · **贡献者**: 64
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install gomplate
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 15 | 13 | 0 | 1 | 20 |
-| last60d | 2026-07-20 | 0 | 39 | 14 | 0 | 1 | 43 |
-| 90d | 2026-06-20 | 1 | 62 | 15 | 3 | 1 | 70 |
-| last180d | 2026-03-22 | 2 | 139 | 15 | 8 | 2 | 133 |
-| 360d | 2025-09-23 | 3 | 203 | 15 | 19 | 2 | 207 |
-| last720d | 2024-09-28 | 8 | 317 | 16 | 51 | 3 | 328 |
+| 30d | 2026-08-21 | 0 | 13 | 13 | 0 | 0 | 12 |
+| last60d | 2026-07-22 | 0 | 37 | 13 | 0 | 1 | 36 |
+| 90d | 2026-06-22 | 1 | 62 | 15 | 3 | 1 | 70 |
+| last180d | 2026-03-24 | 2 | 131 | 15 | 8 | 2 | 131 |
+| 360d | 2025-09-25 | 3 | 203 | 15 | 19 | 2 | 207 |
+| last720d | 2024-09-30 | 8 | 315 | 16 | 51 | 3 | 328 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ gomplate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:10:23Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:03:04Z._
