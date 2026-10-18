@@ -14,14 +14,14 @@ x install gomplate
 
 ## 代码洞察
 
-合计: **30,158** 行代码（覆盖前 5 种语言、共 **251** 个文件）。
+合计: **30,397** 行代码（覆盖前 5 种语言、共 **253** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 23,491 | 1,770 | 4,641 | 217 |
-| Yaml | 5,440 | 7 | 148 | 22 |
+| Go | 23,663 | 1,793 | 4,685 | 219 |
+| Yaml | 5,472 | 7 | 150 | 22 |
 | Css | 530 | 10 | 42 | 8 |
-| Json | 245 | 0 | 0 | 3 |
+| Json | 280 | 0 | 0 | 3 |
 | Makefile | 179 | 26 | 51 | 1 |
 
 ## OpenSSF Scorecard 评分
@@ -42,51 +42,51 @@ x install gomplate
 
 ## 发布
 
-- **最新版本**: `v5.2.0` (2026-07-12)
-- **最近提交**: 2026-09-27
+- **最新版本**: `v5.3.0` (2026-10-18)
+- **最近提交**: 2026-10-18
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 3,212 · **Fork**: 222 · **开放 issue**: 449 · **贡献者**: 64
+- **Star**: 3,212 · **Fork**: 222 · **开放 issue**: 449 · **贡献者**: 66
 
 ## 累计统计
 
-- **发布数**: 76 · **已合并 PR**: 1640 · **开放 PR**: 23 · **已关闭 issue**: 440 · **开放 issue**: 9 · **提交数**: 2700
+- **发布数**: 77 · **已合并 PR**: 1671 · **开放 PR**: 5 · **已关闭 issue**: 441 · **开放 issue**: 8 · **提交数**: 2731
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 2 | 16 | 0 | 0 | 5 |
-| last60d | 2026-08-18 | 0 | 22 | 20 | 0 | 1 | 25 |
-| 90d | 2026-07-19 | 0 | 45 | 21 | 0 | 1 | 48 |
-| last180d | 2026-04-20 | 2 | 123 | 22 | 4 | 2 | 135 |
-| 360d | 2025-10-22 | 3 | 207 | 22 | 18 | 2 | 212 |
-| last720d | 2024-10-27 | 8 | 316 | 22 | 49 | 3 | 323 |
+| 30d | 2026-09-18 | 1 | 26 | 3 | 0 | 0 | 36 |
+| last60d | 2026-08-19 | 1 | 50 | 3 | 1 | 0 | 49 |
+| 90d | 2026-07-20 | 1 | 74 | 4 | 1 | 0 | 76 |
+| last180d | 2026-04-21 | 3 | 154 | 4 | 5 | 1 | 149 |
+| 360d | 2025-10-23 | 4 | 238 | 4 | 19 | 1 | 243 |
+| last720d | 2024-10-28 | 9 | 347 | 4 | 50 | 2 | 354 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums-v5.2.0_sha256.txt](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/checksums-v5.2.0_sha256.txt) | 1.2 KiB | `other` |
-| [checksums-v5.2.0_sha512.txt](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/checksums-v5.2.0_sha512.txt) | 2.0 KiB | `other` |
-| [gomplate_darwin-amd64](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_darwin-amd64) | 107.1 MiB | `native/darwin/x64` |
-| [gomplate_darwin-arm64](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_darwin-arm64) | 96.5 MiB | `native/darwin/arm64` |
-| [gomplate_freebsd-amd64](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_freebsd-amd64) | 104.4 MiB | `other` |
-| [gomplate_linux-386](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-386) | 95.4 MiB | `other` |
-| [gomplate_linux-amd64](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-amd64) | 104.5 MiB | `native/linux/x64` |
-| [gomplate_linux-arm64](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-arm64) | 93.2 MiB | `native/linux/arm64` |
-| [gomplate_linux-armv6](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-armv6) | 94.2 MiB | `native/linux/arm` |
-| [gomplate_linux-armv7](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-armv7) | 94.2 MiB | `native/linux/arm` |
-| [gomplate_linux-ppc64le](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-ppc64le) | 101.6 MiB | `other` |
-| [gomplate_linux-s390x](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_linux-s390x) | 103.0 MiB | `other` |
-| [gomplate_solaris-amd64](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_solaris-amd64) | 104.4 MiB | `other` |
-| [gomplate_windows-386.exe](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_windows-386.exe) | 98.3 MiB | `native/win/x64` |
-| [gomplate_windows-amd64.exe](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_windows-amd64.exe) | 106.6 MiB | `native/win/x64` |
-| [gomplate_windows-amd64.zip](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/gomplate_windows-amd64.zip) | 27.8 MiB | `native/win/x64` |
-| [v5.2.0.sha256](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/v5.2.0.sha256) | 65 B | `other` |
-| [v5.2.0.sha512](https://github.com/hairyhenderson/gomplate/releases/download/v5.2.0/v5.2.0.sha512) | 129 B | `other` |
+| [checksums-v5.3.0_sha256.txt](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/checksums-v5.3.0_sha256.txt) | 1.2 KiB | `other` |
+| [checksums-v5.3.0_sha512.txt](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/checksums-v5.3.0_sha512.txt) | 2.0 KiB | `other` |
+| [gomplate_darwin-amd64](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_darwin-amd64) | 113.2 MiB | `native/darwin/x64` |
+| [gomplate_darwin-arm64](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_darwin-arm64) | 101.9 MiB | `native/darwin/arm64` |
+| [gomplate_freebsd-amd64](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_freebsd-amd64) | 110.4 MiB | `other` |
+| [gomplate_linux-386](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_linux-386) | 101.3 MiB | `other` |
+| [gomplate_linux-amd64](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_linux-amd64) | 110.4 MiB | `native/linux/x64` |
+| [gomplate_linux-arm64](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_linux-arm64) | 98.5 MiB | `native/linux/arm64` |
+| [gomplate_linux-armv6](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_linux-armv6) | 101.2 MiB | `native/linux/arm` |
+| [gomplate_linux-armv7](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_linux-armv7) | 101.1 MiB | `native/linux/arm` |
+| [gomplate_linux-ppc64le](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_linux-ppc64le) | 107.1 MiB | `other` |
+| [gomplate_linux-s390x](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_linux-s390x) | 109.5 MiB | `other` |
+| [gomplate_solaris-amd64](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_solaris-amd64) | 110.4 MiB | `other` |
+| [gomplate_windows-386.exe](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_windows-386.exe) | 104.2 MiB | `native/win/x64` |
+| [gomplate_windows-amd64.exe](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_windows-amd64.exe) | 112.7 MiB | `native/win/x64` |
+| [gomplate_windows-amd64.zip](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/gomplate_windows-amd64.zip) | 29.8 MiB | `native/win/x64` |
+| [v5.3.0.sha256](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/v5.3.0.sha256) | 65 B | `other` |
+| [v5.3.0.sha512](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.0/v5.3.0.sha512) | 129 B | `other` |
 
 ## 改进这些数据
 
@@ -97,4 +97,4 @@ gomplate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261017.yml` · 2026-10-17T05:17:39Z._
+_数据快照: `data/card/261018.yml` · 2026-10-18T05:21:07Z._
