@@ -14,15 +14,15 @@ x install gomplate
 
 ## Code insight
 
-Total: **30,924** lines of code across **253** files in the top 5 languages.
+Total: **31,598** lines of code across **258** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 24,190 | 1,868 | 4,815 | 219 |
+| Go | 24,853 | 1,935 | 4,935 | 224 |
 | Yaml | 5,472 | 7 | 150 | 22 |
 | Css | 530 | 10 | 42 | 8 |
 | Json | 280 | 0 | 0 | 3 |
-| Makefile | 179 | 26 | 51 | 1 |
+| Makefile | 190 | 32 | 53 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3.1` (2026-10-22)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-25
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 3,213 · **Forks**: 224 · **Open issues**: 451 · **Contributors**: 67
+- **Stars**: 3,213 · **Forks**: 226 · **Open issues**: 451 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1707 · **Open PRs**: 6 · **Closed issues**: 442 · **Open issues**: 9 · **Commits**: 2767
+- **Releases**: 78 · **Merged PRs**: 1718 · **Open PRs**: 5 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2778
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 2 | 62 | 4 | 1 | 1 | 72 |
-| last60d | 2026-08-25 | 2 | 81 | 4 | 1 | 1 | 85 |
-| 90d | 2026-07-26 | 2 | 107 | 4 | 2 | 1 | 112 |
-| last180d | 2026-04-27 | 4 | 181 | 5 | 6 | 1 | 185 |
-| 360d | 2025-10-29 | 5 | 273 | 5 | 20 | 2 | 279 |
-| last720d | 2024-11-03 | 10 | 383 | 5 | 51 | 3 | 390 |
+| 30d | 2026-09-25 | 2 | 73 | 3 | 2 | 0 | 78 |
+| last60d | 2026-08-26 | 2 | 91 | 3 | 2 | 0 | 95 |
+| 90d | 2026-07-27 | 2 | 117 | 3 | 3 | 0 | 118 |
+| last180d | 2026-04-28 | 4 | 188 | 4 | 7 | 0 | 184 |
+| 360d | 2025-10-30 | 5 | 284 | 4 | 21 | 1 | 290 |
+| last720d | 2024-11-04 | 10 | 393 | 4 | 52 | 2 | 401 |
 
 ## Release assets
 
@@ -103,7 +103,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **45** distros on [repology.org](https://repology.org/project/gomplate). **4** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **45** distros on [repology.org](https://repology.org/project/gomplate). **5** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -120,4 +120,4 @@ Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:29:30Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:31:37Z._
