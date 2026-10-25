@@ -1,74 +1,28 @@
-- repo: chimera
-  subrepo: user
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 5.2.0
+  origversion: 5.2.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: spack
   srcname: gomplate
-  binname: gomplate-doc
-  visiblename: gomplate-doc
-  version: 5.0.0
-  origversion: 5.0.0-r6
+  visiblename: gomplate
+  version: 5.2.0
+  origversion: null
   status: outdated
-  summary: Template renderer with datasources (documentation)
+  maintainers:
+    - ebagrenrut@spack
   licenses:
     - MIT
 - repo: wakemeops
   subrepo: terminal
   binname: gomplate
   visiblename: gomplate
-  version: 4.0.0
-  origversion: 4.0.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 3.11.8
-  origversion: 3.11.8-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 3.11.7
-  origversion: 3.11.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 3.11.6
-  origversion: 3.11.6-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 3.11.5
-  origversion: 3.11.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 3.11.4
-  origversion: 3.11.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 3.11.3
-  origversion: 3.11.3-1~ops2deb
+  version: 5.3.0
+  origversion: 5.3.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -224,6 +178,17 @@
   summary: Template renderer with datasources
   licenses:
     - MIT
+- repo: chimera
+  subrepo: user
+  srcname: gomplate
+  binname: gomplate-doc
+  visiblename: gomplate-doc
+  version: 5.0.0
+  origversion: 5.0.0-r6
+  status: outdated
+  summary: Template renderer with datasources (documentation)
+  licenses:
+    - MIT
 - repo: chocolatey
   binname: gomplate
   visiblename: Gomplate
@@ -231,6 +196,15 @@
   origversion: null
   status: outdated
   summary: gomplate is a template renderer which supports a growing list of datasources, such as JSON but not only.
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 5.3.1
+  origversion: 5.3.1-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
 - repo: freebsd
   srcname: sysutils/gomplate
   binname: gomplate
@@ -261,9 +235,9 @@
   srcname: textproc/gomplate
   binname: gomplate
   visiblename: gomplate
-  version: 5.3.0
+  version: 5.3.1
   origversion: null
-  status: outdated
+  status: newest
   summary: A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
   maintainers:
     - herbygillot@github
@@ -363,43 +337,6 @@
   status: newest
   licenses:
     - MIT
-- repo: spack
-  srcname: gomplate
-  visiblename: gomplate
-  version: 5.2.0
-  origversion: null
-  status: outdated
-  maintainers:
-    - ebagrenrut@spack
-  licenses:
-    - MIT
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 5.3.1
-  origversion: 5.3.1-1~ops2deb
-  status: newest
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 5.3.0
-  origversion: 5.3.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 5.2.0
-  origversion: 5.2.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: wakemeops
   subrepo: terminal
   binname: gomplate
@@ -469,6 +406,69 @@
   visiblename: gomplate
   version: 4.1.0
   origversion: 4.1.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 4.0.0
+  origversion: 4.0.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 3.11.8
+  origversion: 3.11.8-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 3.11.7
+  origversion: 3.11.7-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 3.11.6
+  origversion: 3.11.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 3.11.5
+  origversion: 3.11.5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 3.11.4
+  origversion: 3.11.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 3.11.3
+  origversion: 3.11.3-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
