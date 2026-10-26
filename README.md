@@ -14,11 +14,11 @@ x install gomplate
 
 ## Code insight
 
-Total: **31,598** lines of code across **258** files in the top 5 languages.
+Total: **31,958** lines of code across **261** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 24,853 | 1,935 | 4,935 | 224 |
+| Go | 25,213 | 1,972 | 5,003 | 227 |
 | Yaml | 5,472 | 7 | 150 | 22 |
 | Css | 530 | 10 | 42 | 8 |
 | Json | 280 | 0 | 0 | 3 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1718 · **Open PRs**: 5 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2778
+- **Releases**: 78 · **Merged PRs**: 1723 · **Open PRs**: 5 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2783
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 73 | 3 | 2 | 0 | 78 |
-| last60d | 2026-08-26 | 2 | 91 | 3 | 2 | 0 | 95 |
-| 90d | 2026-07-27 | 2 | 117 | 3 | 3 | 0 | 118 |
-| last180d | 2026-04-28 | 4 | 188 | 4 | 7 | 0 | 184 |
-| 360d | 2025-10-30 | 5 | 284 | 4 | 21 | 1 | 290 |
-| last720d | 2024-11-04 | 10 | 393 | 4 | 52 | 2 | 401 |
+| 30d | 2026-09-26 | 2 | 76 | 3 | 2 | 0 | 83 |
+| last60d | 2026-08-27 | 2 | 96 | 3 | 2 | 0 | 100 |
+| 90d | 2026-07-28 | 2 | 120 | 3 | 3 | 0 | 123 |
+| last180d | 2026-04-29 | 4 | 192 | 4 | 7 | 0 | 189 |
+| 360d | 2025-10-31 | 5 | 289 | 4 | 21 | 1 | 295 |
+| last720d | 2024-11-05 | 10 | 398 | 4 | 52 | 2 | 406 |
 
 ## Release assets
 
@@ -120,4 +120,4 @@ Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:31:37Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:43:55Z._
