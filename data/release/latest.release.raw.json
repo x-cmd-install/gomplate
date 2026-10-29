@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1199,
       "digest": "sha256:efce433666ad762d8eb7a8c62fb629be9f44faca7f2feb77b774bd3ae6654182",
-      "download_count": 390,
+      "download_count": 490,
       "created_at": "2026-10-22T12:28:22Z",
       "updated_at": "2026-10-22T12:28:22Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/checksums-v5.3.1_sha256.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2031,
       "digest": "sha256:60d2b994a4fc536b909ea93821b805236ab7df8da0f262239d6cbe66f7a1baa3",
-      "download_count": 41,
+      "download_count": 42,
       "created_at": "2026-10-22T12:28:22Z",
       "updated_at": "2026-10-22T12:28:22Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/checksums-v5.3.1_sha512.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 118726416,
       "digest": "sha256:d4696f43b04a28ecdd920ad3a90889f979fdade4c437278eac081bf9cbbd52b6",
-      "download_count": 37,
+      "download_count": 40,
       "created_at": "2026-10-22T12:28:22Z",
       "updated_at": "2026-10-22T12:28:27Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/gomplate_darwin-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 284730,
       "digest": "sha256:c1fd65e61cb588db51e5e21cd89b9955ed7c5ce684d9a9f0181987d322e3ed33",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-22T12:28:22Z",
       "updated_at": "2026-10-22T12:28:22Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/gomplate_darwin-amd64.spdx.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 106937794,
       "digest": "sha256:5323cadb7db2c5b14e63e5d5196eaa0bb5d43a53d1fde7a69287f86949870720",
-      "download_count": 113,
+      "download_count": 126,
       "created_at": "2026-10-22T12:28:22Z",
       "updated_at": "2026-10-22T12:28:26Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/gomplate_darwin-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 283208,
       "digest": "sha256:d99e094dc8365887ad2f2237ea4a8d3a1554ef592c2218b9659ccdb70f2cf453",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-22T12:28:22Z",
       "updated_at": "2026-10-22T12:28:22Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/gomplate_darwin-arm64.spdx.json"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 106320032,
       "digest": "sha256:ba1ae711222db0cb89fc9d3d3de1d807cdc7fcce3636e3533cb5575d2756704b",
-      "download_count": 35,
+      "download_count": 39,
       "created_at": "2026-10-22T12:28:23Z",
       "updated_at": "2026-10-22T12:28:26Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/gomplate_linux-386"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 115888288,
       "digest": "sha256:2a618bfb02a54dd3c76d92ae4375ccc1f33eeb0545d6565ea7c3388359cb93f8",
-      "download_count": 9437,
+      "download_count": 11583,
       "created_at": "2026-10-22T12:28:23Z",
       "updated_at": "2026-10-22T12:28:28Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/gomplate_linux-amd64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 103284896,
       "digest": "sha256:d00242bd08eda5badcea34491b392437237722e7d7e00f8ed05686124a43f61b",
-      "download_count": 1852,
+      "download_count": 2051,
       "created_at": "2026-10-22T12:28:26Z",
       "updated_at": "2026-10-22T12:28:29Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/gomplate_linux-arm64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 106102944,
       "digest": "sha256:eb4afd5a228766cdf01cb863ad79decf2d51328406d36fa8160b0f0d51ef47ad",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-10-22T12:28:26Z",
       "updated_at": "2026-10-22T12:28:31Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/gomplate_linux-armv6"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 106102944,
       "digest": "sha256:d9d2d1880ef5283f841b60408ec1be23801997120194a71d259a4d29c40d8db9",
-      "download_count": 87,
+      "download_count": 110,
       "created_at": "2026-10-22T12:28:27Z",
       "updated_at": "2026-10-22T12:28:30Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/gomplate_linux-armv7"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 118233088,
       "digest": "sha256:120e463152680fb26da7f59fa883f26298abd44ba754b3934c26d4cd8ae9ee7a",
-      "download_count": 67,
+      "download_count": 72,
       "created_at": "2026-10-22T12:28:32Z",
       "updated_at": "2026-10-22T12:28:36Z",
       "browser_download_url": "https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/gomplate_windows-amd64.exe"
