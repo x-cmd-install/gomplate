@@ -2,27 +2,33 @@
   subrepo: terminal
   binname: gomplate
   visiblename: gomplate
-  version: 5.2.0
-  origversion: 5.2.0-1~ops2deb
+  version: 4.0.0
+  origversion: 4.0.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: spack
+- repo: homebrew
   srcname: gomplate
   visiblename: gomplate
-  version: 5.2.0
+  version: HEAD
   origversion: null
-  status: outdated
-  maintainers:
-    - ebagrenrut@spack
-  licenses:
-    - MIT
+  status: rolling
+  summary: Command-line Golang template processor
 - repo: wakemeops
   subrepo: terminal
   binname: gomplate
   visiblename: gomplate
-  version: 5.3.0
-  origversion: 5.3.0-1~ops2deb
+  version: 4.1.0
+  origversion: 4.1.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 5.1.0
+  origversion: 5.1.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -136,7 +142,7 @@
   binname: gomplate
   visiblename: gomplate
   version: 5.2.0
-  origversion: 5.2.0-r1
+  origversion: 5.2.0-r2
   status: outdated
   summary: A versatile Go template processor
   maintainers:
@@ -196,15 +202,6 @@
   origversion: null
   status: outdated
   summary: gomplate is a template renderer which supports a growing list of datasources, such as JSON but not only.
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 5.3.1
-  origversion: 5.3.1-1~ops2deb
-  status: newest
-  maintainers:
-    - ops2deb@upciti.com
 - repo: freebsd
   srcname: sysutils/gomplate
   binname: gomplate
@@ -223,13 +220,6 @@
   version: 5.3.1
   origversion: null
   status: newest
-  summary: Command-line Golang template processor
-- repo: homebrew
-  srcname: gomplate
-  visiblename: gomplate
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Command-line Golang template processor
 - repo: macports
   srcname: textproc/gomplate
@@ -337,12 +327,40 @@
   status: newest
   licenses:
     - MIT
+- repo: spack
+  srcname: gomplate
+  visiblename: gomplate
+  version: 5.2.0
+  origversion: null
+  status: outdated
+  maintainers:
+    - ebagrenrut@spack
+  licenses:
+    - MIT
 - repo: wakemeops
   subrepo: terminal
   binname: gomplate
   visiblename: gomplate
-  version: 5.1.0
-  origversion: 5.1.0-1~ops2deb
+  version: 5.3.1
+  origversion: 5.3.1-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 5.3.0
+  origversion: 5.3.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 5.2.0
+  origversion: 5.2.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -397,24 +415,6 @@
   visiblename: gomplate
   version: 4.2.0
   origversion: 4.2.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 4.1.0
-  origversion: 4.1.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 4.0.0
-  origversion: 4.0.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
