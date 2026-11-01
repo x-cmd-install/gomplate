@@ -48,7 +48,7 @@ x install gomplate
 
 ## 流行度
 
-- **Star**: 3,216 · **Fork**: 226 · **开放 issue**: 451 · **贡献者**: 67
+- **Star**: 3,215 · **Fork**: 226 · **开放 issue**: 451 · **贡献者**: 67
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install gomplate
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 86 | 3 | 2 | 0 | 97 |
-| last60d | 2026-09-01 | 2 | 108 | 3 | 2 | 0 | 114 |
-| 90d | 2026-08-02 | 2 | 133 | 3 | 3 | 0 | 137 |
-| last180d | 2026-05-04 | 3 | 199 | 3 | 7 | 0 | 203 |
-| 360d | 2025-11-05 | 5 | 302 | 3 | 21 | 1 | 309 |
-| last720d | 2024-11-10 | 10 | 404 | 3 | 50 | 2 | 413 |
+| 30d | 2026-10-02 | 2 | 85 | 3 | 2 | 0 | 97 |
+| last60d | 2026-09-02 | 2 | 106 | 3 | 2 | 0 | 102 |
+| 90d | 2026-08-03 | 2 | 133 | 3 | 3 | 0 | 137 |
+| last180d | 2026-05-05 | 3 | 199 | 3 | 7 | 0 | 199 |
+| 360d | 2025-11-06 | 5 | 302 | 3 | 21 | 1 | 309 |
+| last720d | 2024-11-11 | 9 | 402 | 3 | 50 | 2 | 404 |
 
 ## Release 资产
 
@@ -103,12 +103,12 @@ x install gomplate
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/gomplate) 上共有 **45** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/gomplate) 上共有 **45** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**20** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `5.3.0` | ⚠️ outdated |
+| Nix unstable | `5.3.1` | ✅ latest |
 | Alpine edge | `5.2.0` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -120,4 +120,4 @@ gomplate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261031.yml` · 2026-10-31T06:39:26Z._
+_数据快照: `data/card/261101.yml` · 2026-11-01T07:00:34Z._

@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,216 · **Forks**: 226 · **Open issues**: 451 · **Contributors**: 67
+- **Stars**: 3,215 · **Forks**: 226 · **Open issues**: 451 · **Contributors**: 67
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 86 | 3 | 2 | 0 | 97 |
-| last60d | 2026-09-01 | 2 | 108 | 3 | 2 | 0 | 114 |
-| 90d | 2026-08-02 | 2 | 133 | 3 | 3 | 0 | 137 |
-| last180d | 2026-05-04 | 3 | 199 | 3 | 7 | 0 | 203 |
-| 360d | 2025-11-05 | 5 | 302 | 3 | 21 | 1 | 309 |
-| last720d | 2024-11-10 | 10 | 404 | 3 | 50 | 2 | 413 |
+| 30d | 2026-10-02 | 2 | 85 | 3 | 2 | 0 | 97 |
+| last60d | 2026-09-02 | 2 | 106 | 3 | 2 | 0 | 102 |
+| 90d | 2026-08-03 | 2 | 133 | 3 | 3 | 0 | 137 |
+| last180d | 2026-05-05 | 3 | 199 | 3 | 7 | 0 | 199 |
+| 360d | 2025-11-06 | 5 | 302 | 3 | 21 | 1 | 309 |
+| last720d | 2024-11-11 | 9 | 402 | 3 | 50 | 2 | 404 |
 
 ## Release assets
 
@@ -103,12 +103,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **45** distros on [repology.org](https://repology.org/project/gomplate). **5** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+Reported by **45** distros on [repology.org](https://repology.org/project/gomplate). **6** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `5.3.0` | ⚠️ outdated |
+| Nix unstable | `5.3.1` | ✅ latest |
 | Alpine edge | `5.2.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -120,4 +120,4 @@ Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:39:25Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:00:33Z._
