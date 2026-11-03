@@ -1,23 +1,21 @@
-- repo: homebrew
-  srcname: gomplate
-  visiblename: gomplate
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Command-line Golang template processor
-- repo: alpine_3_20
-  subrepo: community
-  srcname: gomplate
+- repo: wakemeops
+  subrepo: terminal
   binname: gomplate
   visiblename: gomplate
-  version: 3.11.7
-  origversion: 3.11.7-r6
-  status: outdated
-  summary: A versatile Go template processor
+  version: 3.11.6
+  origversion: 3.11.6-1~ops2deb
+  status: legacy
   maintainers:
-    - dhenderson@gmail.com
-  licenses:
-    - MIT
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 4.3.0
+  origversion: 4.3.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: alpine_3_17
   subrepo: community
   srcname: gomplate
@@ -51,6 +49,19 @@
   visiblename: gomplate
   version: 3.11.6
   origversion: 3.11.6-r3
+  status: outdated
+  summary: A versatile Go template processor
+  maintainers:
+    - dhenderson@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: gomplate
+  binname: gomplate
+  visiblename: gomplate
+  version: 3.11.7
+  origversion: 3.11.7-r6
   status: outdated
   summary: A versatile Go template processor
   maintainers:
@@ -126,14 +137,23 @@
   srcname: gomplate-bin
   binname: gomplate-bin
   visiblename: gomplate-bin
-  version: 5.0.0
-  origversion: 5.0.0-1
-  status: outdated
+  version: 5.3.1
+  origversion: 5.3.1-1
+  status: newest
   summary: A flexible commandline tool for template rendering. Supports lots of local and remote datasources
   maintainers:
     - seniordevops@aur
   licenses:
     - MIT
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 4.2.0
+  origversion: 4.2.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: aur
   srcname: gomplate-git
   binname: gomplate-git
@@ -193,6 +213,13 @@
   version: 5.3.1
   origversion: null
   status: newest
+  summary: Command-line Golang template processor
+- repo: homebrew
+  srcname: gomplate
+  visiblename: gomplate
+  version: HEAD
+  origversion: null
+  status: rolling
   summary: Command-line Golang template processor
 - repo: macports
   srcname: textproc/gomplate
@@ -386,8 +413,8 @@
   subrepo: terminal
   binname: gomplate
   visiblename: gomplate
-  version: 4.3.0
-  origversion: 4.3.0-1~ops2deb
+  version: 3.11.5
+  origversion: 3.11.5-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -395,8 +422,17 @@
   subrepo: terminal
   binname: gomplate
   visiblename: gomplate
-  version: 4.2.0
-  origversion: 4.2.0-1~ops2deb
+  version: 3.11.4
+  origversion: 3.11.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 3.11.3
+  origversion: 3.11.3-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -433,42 +469,6 @@
   visiblename: gomplate
   version: 3.11.7
   origversion: 3.11.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 3.11.6
-  origversion: 3.11.6-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 3.11.5
-  origversion: 3.11.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 3.11.4
-  origversion: 3.11.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 3.11.3
-  origversion: 3.11.3-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
