@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3.1` (2026-10-22)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 - **Assets in release**: 31
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1741 · **Open PRs**: 5 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2801
+- **Releases**: 78 · **Merged PRs**: 1745 · **Open PRs**: 5 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2805
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 89 | 4 | 2 | 0 | 101 |
-| last60d | 2026-09-05 | 2 | 109 | 4 | 2 | 0 | 106 |
-| 90d | 2026-08-06 | 2 | 134 | 4 | 3 | 0 | 141 |
-| last180d | 2026-05-08 | 3 | 201 | 4 | 6 | 0 | 203 |
-| 360d | 2025-11-09 | 5 | 306 | 4 | 21 | 1 | 313 |
-| last720d | 2024-11-14 | 9 | 403 | 4 | 49 | 2 | 406 |
+| 30d | 2026-10-06 | 2 | 93 | 4 | 2 | 0 | 105 |
+| last60d | 2026-09-06 | 2 | 113 | 4 | 2 | 0 | 110 |
+| 90d | 2026-08-07 | 2 | 137 | 4 | 3 | 0 | 145 |
+| last180d | 2026-05-09 | 3 | 205 | 4 | 6 | 0 | 207 |
+| 360d | 2025-11-10 | 5 | 309 | 4 | 21 | 1 | 317 |
+| last720d | 2024-11-15 | 9 | 407 | 4 | 49 | 2 | 410 |
 
 ## Release assets
 
@@ -120,4 +120,4 @@ Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:28:40Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:42:16Z._
