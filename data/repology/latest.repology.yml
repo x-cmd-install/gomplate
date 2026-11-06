@@ -1,21 +1,27 @@
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
+- repo: nix_stable_24_11
+  srcname: gomplate
   visiblename: gomplate
-  version: 3.11.6
-  origversion: 3.11.6-1~ops2deb
-  status: legacy
+  version: 4.2.0
+  origversion: null
+  status: outdated
+  summary: Flexible commandline tool for template rendering
   maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
+    - code@humanleg.org.uk
+    - jl@lafuente.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: gomplate
   visiblename: gomplate
-  version: 4.3.0
-  origversion: 4.3.0-1~ops2deb
-  status: legacy
+  version: 4.3.2
+  origversion: null
+  status: outdated
+  summary: Flexible commandline tool for template rendering
   maintainers:
-    - ops2deb@upciti.com
+    - code@humanleg.org.uk
+    - jl@lafuente.me
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: gomplate
@@ -145,15 +151,6 @@
     - seniordevops@aur
   licenses:
     - MIT
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 4.2.0
-  origversion: 4.2.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: aur
   srcname: gomplate-git
   binname: gomplate-git
@@ -247,30 +244,6 @@
     - jl@lafuente.me
   licenses:
     - MIT
-- repo: nix_stable_24_11
-  srcname: gomplate
-  visiblename: gomplate
-  version: 4.2.0
-  origversion: null
-  status: outdated
-  summary: Flexible commandline tool for template rendering
-  maintainers:
-    - code@humanleg.org.uk
-    - jl@lafuente.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: gomplate
-  visiblename: gomplate
-  version: 4.3.2
-  origversion: null
-  status: outdated
-  summary: Flexible commandline tool for template rendering
-  maintainers:
-    - code@humanleg.org.uk
-    - jl@lafuente.me
-  licenses:
-    - MIT
 - repo: nix_stable_25_11
   srcname: gomplate
   visiblename: gomplate
@@ -330,9 +303,9 @@
 - repo: spack
   srcname: gomplate
   visiblename: gomplate
-  version: 5.2.0
+  version: 5.3.1
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - ebagrenrut@spack
   licenses:
@@ -413,8 +386,8 @@
   subrepo: terminal
   binname: gomplate
   visiblename: gomplate
-  version: 3.11.5
-  origversion: 3.11.5-1~ops2deb
+  version: 4.3.0
+  origversion: 4.3.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -422,17 +395,8 @@
   subrepo: terminal
   binname: gomplate
   visiblename: gomplate
-  version: 3.11.4
-  origversion: 3.11.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gomplate
-  visiblename: gomplate
-  version: 3.11.3
-  origversion: 3.11.3-1~ops2deb
+  version: 4.2.0
+  origversion: 4.2.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -469,6 +433,42 @@
   visiblename: gomplate
   version: 3.11.7
   origversion: 3.11.7-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 3.11.6
+  origversion: 3.11.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 3.11.5
+  origversion: 3.11.5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 3.11.4
+  origversion: 3.11.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gomplate
+  visiblename: gomplate
+  version: 3.11.3
+  origversion: 3.11.3-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
