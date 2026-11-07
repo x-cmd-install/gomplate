@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,215 · **Forks**: 227 · **Open issues**: 451 · **Contributors**: 67
+- **Stars**: 3,215 · **Forks**: 228 · **Open issues**: 451 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1749 · **Open PRs**: 5 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2809
+- **Releases**: 78 · **Merged PRs**: 1751 · **Open PRs**: 6 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2811
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 97 | 3 | 2 | 0 | 109 |
-| last60d | 2026-09-07 | 2 | 117 | 4 | 2 | 0 | 114 |
-| 90d | 2026-08-08 | 2 | 141 | 4 | 3 | 0 | 149 |
-| last180d | 2026-05-10 | 3 | 208 | 4 | 6 | 0 | 211 |
-| 360d | 2025-11-11 | 5 | 313 | 4 | 21 | 1 | 321 |
-| last720d | 2024-11-16 | 9 | 411 | 4 | 49 | 2 | 414 |
+| 30d | 2026-10-08 | 2 | 99 | 4 | 2 | 0 | 111 |
+| last60d | 2026-09-08 | 2 | 111 | 5 | 2 | 0 | 116 |
+| 90d | 2026-08-09 | 2 | 143 | 5 | 3 | 0 | 151 |
+| last180d | 2026-05-11 | 3 | 210 | 5 | 6 | 0 | 213 |
+| 360d | 2025-11-12 | 5 | 315 | 5 | 21 | 1 | 323 |
+| last720d | 2024-11-17 | 9 | 412 | 5 | 49 | 2 | 416 |
 
 ## Release assets
 
@@ -103,7 +103,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **45** distros on [repology.org](https://repology.org/project/gomplate). **8** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+Reported by **44** distros on [repology.org](https://repology.org/project/gomplate). **8** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -120,4 +120,4 @@ Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:42:29Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:57:18Z._
