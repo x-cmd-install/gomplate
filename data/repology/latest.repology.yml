@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: gomplate
+  visiblename: gomplate
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line Golang template processor
 - repo: alpine_3_17
   subrepo: community
   srcname: gomplate
@@ -173,7 +180,7 @@
   binname: gomplate
   visiblename: sysutils/gomplate
   version: 5.3.1
-  origversion: null
+  origversion: 5.3.1_1
   status: newest
   summary: Command-line tool for rendering templates before executing binaries
   maintainers:
@@ -186,13 +193,6 @@
   version: 5.3.1
   origversion: null
   status: newest
-  summary: Command-line Golang template processor
-- repo: homebrew
-  srcname: gomplate
-  visiblename: gomplate
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Command-line Golang template processor
 - repo: macports
   srcname: textproc/gomplate
