@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,217 · **Forks**: 228 · **Open issues**: 451 · **Contributors**: 67
+- **Stars**: 3,218 · **Forks**: 228 · **Open issues**: 451 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1751 · **Open PRs**: 13 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2811
+- **Releases**: 78 · **Merged PRs**: 1751 · **Open PRs**: 16 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2811
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 2 | 99 | 11 | 2 | 0 | 111 |
-| last60d | 2026-09-12 | 2 | 111 | 12 | 2 | 0 | 116 |
-| 90d | 2026-08-13 | 2 | 141 | 12 | 3 | 0 | 136 |
-| last180d | 2026-05-15 | 3 | 208 | 12 | 6 | 0 | 205 |
-| 360d | 2025-11-16 | 5 | 315 | 12 | 21 | 1 | 323 |
-| last720d | 2024-11-21 | 9 | 409 | 12 | 49 | 2 | 413 |
+| 30d | 2026-10-13 | 2 | 99 | 14 | 2 | 0 | 111 |
+| last60d | 2026-09-13 | 2 | 111 | 15 | 2 | 0 | 116 |
+| 90d | 2026-08-14 | 2 | 140 | 15 | 3 | 0 | 136 |
+| last180d | 2026-05-16 | 3 | 206 | 15 | 6 | 0 | 205 |
+| 360d | 2025-11-17 | 5 | 315 | 15 | 21 | 1 | 323 |
+| last720d | 2024-11-22 | 9 | 409 | 15 | 49 | 2 | 413 |
 
 ## Release assets
 
@@ -107,7 +107,7 @@ Reported by **44** distros on [repology.org](https://repology.org/project/gompla
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `5.3.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `5.3.1` | ✅ latest |
 | Alpine edge | `5.2.0` | ⚠️ outdated |
 
@@ -120,4 +120,4 @@ Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:11:19Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:44:44Z._
