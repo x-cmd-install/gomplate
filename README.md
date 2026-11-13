@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1751 · **Open PRs**: 16 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2811
+- **Releases**: 78 · **Merged PRs**: 1751 · **Open PRs**: 17 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2811
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 99 | 14 | 2 | 0 | 111 |
-| last60d | 2026-09-13 | 2 | 111 | 15 | 2 | 0 | 116 |
-| 90d | 2026-08-14 | 2 | 140 | 15 | 3 | 0 | 136 |
-| last180d | 2026-05-16 | 3 | 206 | 15 | 6 | 0 | 205 |
-| 360d | 2025-11-17 | 5 | 315 | 15 | 21 | 1 | 323 |
-| last720d | 2024-11-22 | 9 | 409 | 15 | 49 | 2 | 413 |
+| 30d | 2026-10-14 | 2 | 98 | 14 | 2 | 0 | 111 |
+| last60d | 2026-09-14 | 2 | 110 | 16 | 2 | 0 | 116 |
+| 90d | 2026-08-15 | 2 | 140 | 16 | 3 | 0 | 136 |
+| last180d | 2026-05-17 | 3 | 203 | 16 | 6 | 0 | 205 |
+| 360d | 2025-11-18 | 5 | 315 | 16 | 21 | 1 | 323 |
+| last720d | 2024-11-23 | 9 | 409 | 16 | 49 | 2 | 413 |
 
 ## Release assets
 
@@ -120,4 +120,4 @@ Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:44:44Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:16:26Z._
