@@ -14,14 +14,14 @@ x install gomplate
 
 ## Code insight
 
-Total: **31,985** lines of code across **261** files in the top 5 languages.
+Total: **32,045** lines of code across **261** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 25,239 | 1,976 | 5,006 | 227 |
+| Go | 25,292 | 1,985 | 5,016 | 227 |
 | Yaml | 5,473 | 7 | 150 | 22 |
 | Css | 530 | 10 | 42 | 8 |
-| Json | 280 | 0 | 0 | 3 |
+| Json | 287 | 0 | 0 | 3 |
 | Makefile | 190 | 32 | 53 | 1 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3.1` (2026-10-22)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-16
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 3,219 · **Forks**: 229 · **Open issues**: 451 · **Contributors**: 70
+- **Stars**: 3,220 · **Forks**: 229 · **Open issues**: 451 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1763 · **Open PRs**: 9 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2823
+- **Releases**: 78 · **Merged PRs**: 1768 · **Open PRs**: 8 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2828
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 110 | 6 | 2 | 0 | 58 |
-| last60d | 2026-09-16 | 2 | 120 | 8 | 2 | 0 | 128 |
-| 90d | 2026-08-17 | 2 | 146 | 8 | 3 | 0 | 148 |
-| last180d | 2026-05-19 | 3 | 213 | 8 | 6 | 0 | 210 |
-| 360d | 2025-11-20 | 5 | 327 | 8 | 21 | 1 | 335 |
-| last720d | 2024-11-25 | 9 | 419 | 8 | 49 | 2 | 422 |
+| 30d | 2026-10-17 | 2 | 97 | 5 | 2 | 0 | 63 |
+| last60d | 2026-09-17 | 2 | 125 | 7 | 2 | 0 | 133 |
+| 90d | 2026-08-18 | 2 | 149 | 7 | 3 | 0 | 153 |
+| last180d | 2026-05-20 | 3 | 216 | 7 | 6 | 0 | 215 |
+| 360d | 2025-11-21 | 5 | 332 | 7 | 21 | 1 | 340 |
+| last720d | 2024-11-26 | 9 | 424 | 7 | 49 | 2 | 427 |
 
 ## Release assets
 
@@ -120,4 +120,4 @@ Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:44:06Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:16:07Z._
