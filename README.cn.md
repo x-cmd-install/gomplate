@@ -43,7 +43,7 @@ x install gomplate
 ## 发布
 
 - **最新版本**: `v5.3.1` (2026-10-22)
-- **最近提交**: 2026-11-17
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 31 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install gomplate
 
 ## 累计统计
 
-- **发布数**: 78 · **已合并 PR**: 1772 · **开放 PR**: 10 · **已关闭 issue**: 443 · **开放 issue**: 8 · **提交数**: 2832
+- **发布数**: 78 · **已合并 PR**: 1777 · **开放 PR**: 10 · **已关闭 issue**: 443 · **开放 issue**: 8 · **提交数**: 2837
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 95 | 7 | 2 | 0 | 67 |
-| last60d | 2026-09-18 | 2 | 127 | 9 | 2 | 0 | 137 |
-| 90d | 2026-08-19 | 2 | 151 | 9 | 3 | 0 | 157 |
-| last180d | 2026-05-21 | 3 | 218 | 9 | 6 | 0 | 219 |
-| 360d | 2025-11-22 | 5 | 336 | 9 | 20 | 1 | 344 |
-| last720d | 2024-11-27 | 9 | 428 | 9 | 49 | 2 | 431 |
+| 30d | 2026-10-20 | 1 | 83 | 7 | 2 | 0 | 72 |
+| last60d | 2026-09-20 | 2 | 132 | 9 | 2 | 0 | 142 |
+| 90d | 2026-08-21 | 2 | 154 | 9 | 2 | 0 | 162 |
+| last180d | 2026-05-23 | 3 | 221 | 9 | 6 | 0 | 224 |
+| 360d | 2025-11-24 | 5 | 341 | 9 | 20 | 1 | 349 |
+| last720d | 2024-11-29 | 9 | 433 | 9 | 49 | 2 | 436 |
 
 ## Release 资产
 
@@ -101,6 +101,16 @@ x install gomplate
 | [v5.3.1.sha256](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/v5.3.1.sha256) | 65 B | `other` |
 | [v5.3.1.sha512](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/v5.3.1.sha512) | 129 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/gomplate) 上共有 **44** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**17** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `5.3.1` | ✅ latest |
+| Alpine edge | `5.2.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 gomplate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `gomplate` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -110,4 +120,4 @@ gomplate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T11:04:32Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:18:56Z._

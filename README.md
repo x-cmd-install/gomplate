@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3.1` (2026-10-22)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-19
 - **Assets in release**: 31
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1772 · **Open PRs**: 10 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2832
+- **Releases**: 78 · **Merged PRs**: 1777 · **Open PRs**: 10 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2837
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 95 | 7 | 2 | 0 | 67 |
-| last60d | 2026-09-18 | 2 | 127 | 9 | 2 | 0 | 137 |
-| 90d | 2026-08-19 | 2 | 151 | 9 | 3 | 0 | 157 |
-| last180d | 2026-05-21 | 3 | 218 | 9 | 6 | 0 | 219 |
-| 360d | 2025-11-22 | 5 | 336 | 9 | 20 | 1 | 344 |
-| last720d | 2024-11-27 | 9 | 428 | 9 | 49 | 2 | 431 |
+| 30d | 2026-10-20 | 1 | 83 | 7 | 2 | 0 | 72 |
+| last60d | 2026-09-20 | 2 | 132 | 9 | 2 | 0 | 142 |
+| 90d | 2026-08-21 | 2 | 154 | 9 | 2 | 0 | 162 |
+| last180d | 2026-05-23 | 3 | 221 | 9 | 6 | 0 | 224 |
+| 360d | 2025-11-24 | 5 | 341 | 9 | 20 | 1 | 349 |
+| last720d | 2024-11-29 | 9 | 433 | 9 | 49 | 2 | 436 |
 
 ## Release assets
 
@@ -101,6 +101,16 @@ Lowest-scoring checks:
 | [v5.3.1.sha256](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/v5.3.1.sha256) | 65 B | `other` |
 | [v5.3.1.sha512](https://github.com/hairyhenderson/gomplate/releases/download/v5.3.1/v5.3.1.sha512) | 129 B | `other` |
 
+## Distribution status
+
+Reported by **44** distros on [repology.org](https://repology.org/project/gomplate). **8** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `5.3.1` | ✅ latest |
+| Alpine edge | `5.2.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gomplate` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -110,4 +120,4 @@ Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T11:04:31Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:18:53Z._
