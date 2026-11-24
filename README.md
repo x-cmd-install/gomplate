@@ -26,12 +26,12 @@ Total: **32,045** lines of code across **261** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6 / 10**
+Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3.1` (2026-10-22)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-24
 - **Assets in release**: 31
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1784 · **Open PRs**: 9 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2844
+- **Releases**: 78 · **Merged PRs**: 1788 · **Open PRs**: 9 · **Closed issues**: 443 · **Open issues**: 8 · **Commits**: 2848
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 66 | 5 | 0 | 0 | 50 |
-| last60d | 2026-09-24 | 2 | 139 | 8 | 2 | 0 | 144 |
-| 90d | 2026-08-25 | 2 | 158 | 8 | 2 | 0 | 161 |
-| last180d | 2026-05-27 | 3 | 226 | 8 | 6 | 0 | 229 |
-| 360d | 2025-11-28 | 5 | 348 | 8 | 19 | 1 | 356 |
-| last720d | 2024-12-03 | 9 | 439 | 8 | 48 | 2 | 441 |
+| 30d | 2026-10-25 | 0 | 65 | 5 | 0 | 0 | 54 |
+| last60d | 2026-09-25 | 2 | 143 | 8 | 2 | 0 | 148 |
+| 90d | 2026-08-26 | 2 | 161 | 8 | 2 | 0 | 165 |
+| last180d | 2026-05-28 | 3 | 230 | 8 | 6 | 0 | 233 |
+| 360d | 2025-11-29 | 5 | 352 | 8 | 19 | 1 | 360 |
+| last720d | 2024-12-04 | 9 | 441 | 8 | 48 | 2 | 445 |
 
 ## Release assets
 
@@ -120,4 +120,4 @@ Install metadata for gomplate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:18:09Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:15:13Z._

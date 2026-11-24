@@ -26,12 +26,12 @@ x install gomplate
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6 / 10**
+总评分: **6.2 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -43,7 +43,7 @@ x install gomplate
 ## 发布
 
 - **最新版本**: `v5.3.1` (2026-10-22)
-- **最近提交**: 2026-11-21
+- **最近提交**: 2026-11-24
 - **Release 含资产**: 31 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install gomplate
 
 ## 累计统计
 
-- **发布数**: 78 · **已合并 PR**: 1784 · **开放 PR**: 9 · **已关闭 issue**: 443 · **开放 issue**: 8 · **提交数**: 2844
+- **发布数**: 78 · **已合并 PR**: 1788 · **开放 PR**: 9 · **已关闭 issue**: 443 · **开放 issue**: 8 · **提交数**: 2848
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 66 | 5 | 0 | 0 | 50 |
-| last60d | 2026-09-24 | 2 | 139 | 8 | 2 | 0 | 144 |
-| 90d | 2026-08-25 | 2 | 158 | 8 | 2 | 0 | 161 |
-| last180d | 2026-05-27 | 3 | 226 | 8 | 6 | 0 | 229 |
-| 360d | 2025-11-28 | 5 | 348 | 8 | 19 | 1 | 356 |
-| last720d | 2024-12-03 | 9 | 439 | 8 | 48 | 2 | 441 |
+| 30d | 2026-10-25 | 0 | 65 | 5 | 0 | 0 | 54 |
+| last60d | 2026-09-25 | 2 | 143 | 8 | 2 | 0 | 148 |
+| 90d | 2026-08-26 | 2 | 161 | 8 | 2 | 0 | 165 |
+| last180d | 2026-05-28 | 3 | 230 | 8 | 6 | 0 | 233 |
+| 360d | 2025-11-29 | 5 | 352 | 8 | 19 | 1 | 360 |
+| last720d | 2024-12-04 | 9 | 441 | 8 | 48 | 2 | 445 |
 
 ## Release 资产
 
@@ -120,4 +120,4 @@ gomplate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T10:18:10Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:15:14Z._
